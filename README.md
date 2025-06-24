@@ -1,6 +1,13 @@
 # para-probar
-html 
-body 
-head
-h1 
-sjsjsjsj
+<!DOCTYPE html>
+<html lang= "en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Hello, world!</title>
+  
+</head>
+<body>
+  
+</body>
+</html>
+
